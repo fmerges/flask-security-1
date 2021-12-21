@@ -206,7 +206,7 @@ msgstr "Contraseña no indicada"
 
 #: flask_security/core.py:379
 msgid "No password is set for this user"
-msgstr "Ninguna contraseña ha sido definida para este·a usuario·a"
+msgstr "Ninguna contraseña ha sido definida para este usuario"
 
 #: flask_security/core.py:381
 #, python-format
@@ -231,7 +231,7 @@ msgstr "El número de teléfono no es válido, p. ej. falta el código de país"
 
 #: flask_security/core.py:391
 msgid "Specified user does not exist"
-msgstr "Usuario·a especificado·a no existe"
+msgstr "Usuario especificado no existe"
 
 #: flask_security/core.py:392
 msgid "Invalid password"
